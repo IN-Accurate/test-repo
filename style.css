@@ -9,3 +9,9 @@ body{
     justify-content: space-between;
     background-color: #1F2937;
 }
+
+.logo{
+    font-size: 40px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
