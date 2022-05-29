@@ -6,9 +6,5 @@ body{
     display: flex;
     margin: 0;
     padding: 16px;
-}
-
-.links{
-    display: flex;
-    align-self: flex-end;
+    justify-content: space-between;
 }
