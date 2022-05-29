@@ -7,3 +7,8 @@ body{
     margin: 0;
     padding: 16px;
 }
+
+.links{
+    display: flex;
+    align-self: flex-end;
+}
